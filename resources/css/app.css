@@ -1,0 +1,44 @@
+@import 'bootstrap';
+
+body {
+    font-family: 'Outfit', sans-serif;
+}
+.text-logo{
+    font-weight: 800;
+}
+
+
+.bg-orange{
+    background-color: #FFB703;
+}
+
+/* .navbar-toggler {
+    color: #FFB703;
+    border-color: #FFB703;
+    border: 2px solid;
+} */
+
+.btn-outline-success {
+    border-color: #FFB703;
+    color: #FFB703;
+}
+
+.btn-outline-success:hover {
+    border: #FFB703;
+    background-color: #FFB703;
+    color: white;
+
+}
+
+.input-search {
+    border: none;
+}
+
+
+.btn-form {
+    background-color: #FFB703;
+}
+.btn-form:hover{
+    background-color: #ffb803e8;
+}
+
